@@ -1,0 +1,11 @@
+[
+	{
+		"modid":"POSTEvents",
+		"name":"POSTEvents",
+		"version":"@VERSION@",
+		"url":"http://duaiwe.github.com/postevents"
+		"authors": ["duaiwe"],
+		"description":"Posts events to a remote API.",
+		"mcversion":"@MCVERSION@"
+	}
+]
